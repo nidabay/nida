@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="css/kodluyorum1.css">
+</head>
+<body>
+     <centerr>
+    <img class="ust" src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="Google!">
+    
+     </centerr>
+    
+     <div class="box" >
+        <div> Google kullanarak web'de arama yapın! </div>
+        <input type="text" name="g" value size="40" >
+        <br>
+        <button type="submit" >Google Arama</button> <button type="submit">Kendimi Şanslı Hissediyorum</button>
+     </div>
+
+     <centerr></centerr>
+     
+     
+    <div class="content" >
+        <div class="one">
+            <h3> Özel Aramalar </h3>
+            <h3> <a href="http://www.google.com/stanford" >Stanford Search</a></h3>
+            <h3> <a href="https://web.archive.org/web/19990221231654/http://www.google.com/linux">Linux Search</a> </h3>
+        </div>
+        <div class="two" >
+          <h3><a href="https://web.archive.org/web/19990221212930if_/http://www.google.com/help.html">Yardım!</a></h3>
+          <h3><a href="https://web.archive.org/web/19990427105230if_/http://www.google.com/about.html">Google Hakkında!</a></h3>
+          <h3><a href="https://web.archive.org/web/19990221202430if_/http://www.google.com/company.html">Şirket Bilgisi</a></h3>
+          <h3><a href="https://web.archive.org/web/19990224043535if_/http://www.google.com/stickers.html">Google! Logolar</a></h3>
+        </div>
+
+        <div class="three">
+        <h3>Google'ı edinin! aylık güncellemeler.</h3>
+         <input type="text"> <br>
+         <button type="submit"> Abone ol </button>
+         <h3><a href="https://web.archive.org/web/19990116224431/http://www.findmail.com/list/google-friends">Arşiv</a></h3>    
+            
+
+        </div>
+
+    </div>
+
+
+
+
+<br>
+
+
+
+<br>
+
+
+
+
+
+
+     
+      <h3 class="telif">    <merkez>  <br>  <br> Telif hakkı ©1998 Google Inc.</merkez> </h3>
+
+
+    
+
+</body> 
+</html>
